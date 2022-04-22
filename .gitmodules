@@ -1,0 +1,3 @@
+[submodule "repoooo2"]
+	path = mydir/Repo2
+	url = git@github.com:DriftKing180/Repo2.git
